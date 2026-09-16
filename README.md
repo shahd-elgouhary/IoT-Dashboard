@@ -190,7 +190,7 @@ void loop() {
 1. **Clone & Install Dependencies**:
    ```bash
    git clone <repository-url>
-   cd IOT-ITI
+   cd IoT-Dashboard
    npm install
    ```
 
